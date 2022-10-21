@@ -1,0 +1,22 @@
+#img{
+    max-width: 100px;
+}
+
+#tabla{
+    position: absolute;
+    align-items: center;
+    left: 500px;
+}
+
+#enc{
+    position: relative;
+    align-items: center;
+    text-align: center;
+}
+
+#tabla2{
+    position: relative;
+    align-items: center;
+    text-align: center;
+    max-width: 100px;
+}
